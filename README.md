@@ -1,1 +1,1 @@
-### Machine-Learning code & Projects
+### Machine-Learning Code & Projects
